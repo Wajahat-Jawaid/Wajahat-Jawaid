@@ -1,30 +1,7 @@
 Hello there, I'm Wajahat Jawaid 👋
-Website Twitter Follow
 
-I'm a Mobile Software Engineer :)
-🔭 . I’m currently working as a Software Engineer @Nubank
-🌱 . I’m currently learning Game Development 🤣
-🥅 . 2021 Goals: Maybe start a company?
-⚡ . Fun fact: I love filmmaking
-Connect with me:
-alifyz blogalifyz | YouTubealifyz | Twitteralifyz | LinkedInalifyz | Instagram
+I'm an Android Software Engineer :)
 
-
-Languages and Tools:
-Visual Studio CodeKotliniosFlutterGatsbyUnityGraphQLNode.jsSQLMongoDBGitGitHubTerminal
-
-
-
-📺 Latest YouTube Videos
-NavController
-Tutorial: Creating TabLayout + ViewPager using Fragments Android
-➡️ more videos...
-
-📕 Latest Blog Posts
-Android MVP Architecture
-Android Room Database Tutorial
-Android Jetpack - ViewModels
-Android Networking - REST
-➡️ more blog posts...
+🔭 . Currently working as a Senior Android Engineer @Mode Mobile
 
 ⚡ Github Stats
