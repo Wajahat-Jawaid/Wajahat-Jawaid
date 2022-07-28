@@ -1,4 +1,4 @@
-Hello there, I'm Alifyz Pires Blog 👋
+Hello there, I'm Wajahat Jawaid 👋
 Website Twitter Follow
 
 I'm a Mobile Software Engineer :)
