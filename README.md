@@ -1,16 +1,30 @@
-### Hi there 👋
+Hello there, I'm Alifyz Pires Blog 👋
+Website Twitter Follow
 
-<!--
-**Wajahat-Jawaid/Wajahat-Jawaid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mobile Software Engineer :)
+🔭 . I’m currently working as a Software Engineer @Nubank
+🌱 . I’m currently learning Game Development 🤣
+🥅 . 2021 Goals: Maybe start a company?
+⚡ . Fun fact: I love filmmaking
+Connect with me:
+alifyz blogalifyz | YouTubealifyz | Twitteralifyz | LinkedInalifyz | Instagram
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+Visual Studio CodeKotliniosFlutterGatsbyUnityGraphQLNode.jsSQLMongoDBGitGitHubTerminal
+
+
+
+📺 Latest YouTube Videos
+NavController
+Tutorial: Creating TabLayout + ViewPager using Fragments Android
+➡️ more videos...
+
+📕 Latest Blog Posts
+Android MVP Architecture
+Android Room Database Tutorial
+Android Jetpack - ViewModels
+Android Networking - REST
+➡️ more blog posts...
+
+⚡ Github Stats
