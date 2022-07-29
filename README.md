@@ -10,4 +10,11 @@ Wajahat took up his coding during his freshman year of college, and he's been a 
 <a href="https://www.linkedin.com/in/wajahat-jawaid-99828b47">![linkedin (2)](https://user-images.githubusercontent.com/13690429/181523715-4340aabc-674f-44f2-bd3e-ed0f21ead8db.png)</a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/wajahatjawaid1">![facebook-circular-logo](https://user-images.githubusercontent.com/13690429/181523883-f4d9c050-114a-4133-a126-ea759b6ba467.png)</a>
 
+<hr />
 
+### Latest YouTube videos
+
+<a href="https://youtube.com/shorts/bud06SJW9NU">Simple app using Jetpack Components, Kotlin, MVVM and Retrofit</a><br />
+<a href="https://youtube.com/shorts/los89ghSS34">A simple app on how to use Room DB with Dagger2, Data Binding and Jetpack Components</a><br />
+<a href="https://youtube.com/shorts/hYS97dskkld">Tour de Jetpack Compose</a><br /><br />
+<a href="https://www.youtube.com/channel/UCz77ZDY7pS9UYFk8X1ByWKw">Explore more...</a>
