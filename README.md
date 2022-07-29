@@ -15,6 +15,7 @@ Wajahat took up his coding during his freshman year of college, and he's been a 
 ### Latest YouTube videos
 
 <a href="https://youtube.com/shorts/bud06SJW9NU">Simple app using Jetpack Components, Kotlin, MVVM and Retrofit</a><br />
+<a href="https://youtube.com/shorts/VvrY68di4pg">Leveraging the Glide to develop media-rich applications with caching.</a><br />
 <a href="https://youtube.com/shorts/los89ghSS34">A simple app on how to use Room DB with Dagger2, Data Binding and Jetpack Components</a><br />
 <a href="https://youtube.com/shorts/hYS97dskkld">Tour de Jetpack Compose</a><br /><br />
 <a href="https://www.youtube.com/channel/UCz77ZDY7pS9UYFk8X1ByWKw">Explore more...</a>
