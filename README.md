@@ -3,10 +3,14 @@ Hello there, I'm Wajahat Jawaid 👋
 ## I'm an Android Software Engineer :)
 Wajahat took up his coding during his freshman year of college, and he's been a <b>stellar painter</b> on the blank canvas of technology in business ever since. His experience ranges from conceptualization of key features to developing and deploying robust finished products. He has partnered with <b>budding startups</b> and <b>large software houses</b>.<br />Wajahat's clients view him as a relentless problem solver and a sticker for details, iterating to perfection to meet and exceed their demands.
 
-🔭 . Currently working as a Senior Android Engineer @Mode Mobile <br />
-🌱 . Available to hire for remote roles (Job, Contract, Freelance) <br /> 
-💻 . Open Source contributor
+<img  align="left" src="https://user-images.githubusercontent.com/13690429/182041776-677a2189-16fe-4e87-8b99-ca9e11d3f60d.gif" width="200" height="200">
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p float="left">
+
+🔭 . Currently working as a Senior Android Engineer @Mode Mobile <br />
+🌱 . Available to hire for <b>remote</b> roles (Job, Contract, Freelance) <br /> 
+🏓 . Open Source contributor
+</p>
 
 ### Connect with Me:
 <a href="mailto:wajahatjawaid@gmail.com">![email](https://user-images.githubusercontent.com/13690429/181525733-e9fa54ae-b494-4d9c-a03e-266d6f7ea288.png)</a>&nbsp;&nbsp;&nbsp;
