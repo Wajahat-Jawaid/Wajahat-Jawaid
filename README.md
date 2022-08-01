@@ -1,9 +1,7 @@
 Hello there, I'm Wajahat Jawaid 👋
 
 
-<!-- ![Screenshot 2022-08-01 105617](https://user-images.githubusercontent.com/13690429/182081647-13018612-539b-4606-a1fb-15c27489b70b.png) -->
-
-![Banner](https://user-images.githubusercontent.com/13690429/182084074-2636824a-4aac-4df0-952c-340f6a5a020a.png)
+![Banner](https://user-images.githubusercontent.com/13690429/182085310-27824afd-4455-4285-ab3e-18f5a32d63ad.png)
 
 
 Wajahat took up his coding during his freshman year of college, and he's been a <b>stellar painter</b> on the blank canvas of technology in business ever since. His experience ranges from conceptualization of key features to developing and deploying robust finished products. He has partnered with <b>budding startups</b> and <b>large software houses</b>.<br />Wajahat's clients view him as a relentless problem solver and a sticker for details, iterating to perfection to meet and exceed their demands.
