@@ -1,7 +1,7 @@
 Hello there, I'm Wajahat Jawaid 👋
 
-## I'm an Android Software Engineer :)
 
+![Screenshot 2022-08-01 105617](https://user-images.githubusercontent.com/13690429/182081647-13018612-539b-4606-a1fb-15c27489b70b.png)
 
 Wajahat took up his coding during his freshman year of college, and he's been a <b>stellar painter</b> on the blank canvas of technology in business ever since. His experience ranges from conceptualization of key features to developing and deploying robust finished products. He has partnered with <b>budding startups</b> and <b>large software houses</b>.<br />Wajahat's clients view him as a relentless problem solver and a sticker for details, iterating to perfection to meet and exceed their demands.
 
