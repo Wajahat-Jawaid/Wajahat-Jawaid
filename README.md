@@ -24,7 +24,9 @@ Wajahat took up his coding during his freshman year of college, and he's been a 
 
 ### Latest Publications
 
+<a href="https://medium.com/@wajahat.jawaid/displaying-listing-in-jetpack-compose-84083cef5e42">Displaying Files from Local Storage in Jetpack Compose</a><br />
 <a href="https://medium.com/@wajahat.jawaid/accessing-external-storage-made-easy-for-all-api-levels-8fa0c86f6e8">Smartly handling EXTERNAL_STORAGE permission in Android</a><br />
+<a href="https://medium.com/@wajahat.jawaid/making-network-calls-in-recyclerview-adapter-e1e1df5150b9">Making network calls in RecyclerView Adapter</a><br />
 <a href="https://youtube.com/shorts/bud06SJW9NU">Simple app using Jetpack Components, Kotlin, MVVM and Retrofit</a><br />
 <a href="https://youtube.com/shorts/VvrY68di4pg">Leveraging the Glide to develop media-rich applications with caching.</a><br />
 <a href="https://youtube.com/shorts/los89ghSS34">A simple app on how to use Room DB with Dagger2, Data Binding and Jetpack Components</a><br />
