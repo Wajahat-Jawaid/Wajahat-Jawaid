@@ -10,7 +10,7 @@ Wajahat took up his coding during his freshman year of college, and he's been a 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p float="left">
 
-🔭 . Currently working as a Senior Android Engineer @Mode Mobile <br />
+🔭 . Currently working as a Senior Android Engineer @Careem <br />
 🌱 . Available to <a href="mailto:wajahatjawaid@gmail.com">hire</a> for <b>remote</b> roles (Job, Contract, Freelance) <br /> 
 🏓 . Open Source contributor
 </p>
